@@ -3,6 +3,9 @@
 
 >  Ingénieur Full Stack/DevOps - Bio-informatique
 
+
+> [Github](https://github.com/xgaia)
+
 ----
 
 Expérience
@@ -68,4 +71,4 @@ Sports
 
 ----
 
-> [pdf version](resume.pdf) • [me.xgaia.fr](https://me.xgaia.fr) • [Github](https://github.com/xgaia)
+> [pdf](resume.pdf) • [html](/)
