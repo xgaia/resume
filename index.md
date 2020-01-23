@@ -71,4 +71,4 @@ Sports
 
 ----
 
-> [pdf](resume.pdf) • [html](/)
+> [pdf](https://me.xgaia.fr/resume.pdf) • [html](https://me.xgaia.fr)
