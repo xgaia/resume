@@ -41,7 +41,7 @@ OS
 :    **Linux** (Debian, Fedora)
 
 DevOps
-:    Deploiement continue (docker, docker-compose), intégration continue (pytest, [Travis-ci](https://travis-ci.org)), Monitoring ([Sentry](https://sentry.io))
+:    Deploiement continu (docker, docker-compose), intégration continue (pytest, [Travis-ci](https://travis-ci.org)), Monitoring ([Sentry](https://sentry.io))
 
 
 Expérience
