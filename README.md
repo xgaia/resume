@@ -1,22 +1,39 @@
 # Resume
 
-## Prerequiste
+My resume, build with [Nikola](https://getnikola.com/)
+
+## Installation
+
+### Install dependencies
 
 ```bash
 # Debian/Ubuntu
-sudo apt install pandoc wkhtmltopdf
+sudo apt install -y git make python3 python3-venv
 # Fedora
-sudo dnf install pandoc wkhtmltopdf
+sudo dnf install -y git make python3 python3-virtualenv
 ```
 
-## Build
-
-Use `build.sh` script with `-d dev` or `-d prod`
-
-- `dev`: build html, rebuild when `index.md` is modified
-- `prod`: build html and pdf once
+### Download and install website
 
 ```bash
-./build.sh -d dev
-./build.sh -d prod
+git clone 
+cd resume
+make install
+```
+
+## Deployment
+
+```bash
+make build
+```
+
+This command generate HTML and PDF files in `output` directory
+
+
+## Developement
+
+### Serve website locally
+
+```bash
+make serve
 ```

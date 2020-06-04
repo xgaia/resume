@@ -1,5 +1,16 @@
+<!--
+.. title: CV
+.. slug: index
+.. date: 2020-06-03 16:04:11 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: true
+-->
 
-----
+---
 
 >  Ingénieur Full Stack/DevOps - Bio-informatique
 
@@ -7,6 +18,31 @@
 > [Github](https://github.com/xgaia)
 
 ----
+
+Compétences
+--------------------
+
+Front-end
+:    **Javascript** (**[React](https://reactjs.org)**, [D3](https://d3js.org/)), HTML, CSS (Bootstrap)
+
+Back-end
+:    **Python** (**[Flask](https://flask.palletsprojects.com)**, [Celery](https://www.celeryproject.org), [Pyramid](https://trypyramid.com/)), Php
+
+Database
+:    SQL 
+
+Semantic Web
+:    **RDF**, **SPARQL**
+
+Proramming
+:    **Python**, Bash, C/C++, Scala
+
+OS
+:    **Linux** (Debian, Fedora)
+
+DevOps
+:    Deploiement continue (docker, docker-compose), intégration continue (pytest, [Travis-ci](https://travis-ci.org)), Monitoring ([Sentry](https://sentry.io))
+
 
 Expérience
 --------------------
@@ -16,8 +52,9 @@ Expérience
     *(Inria Rennes Bretagne Atlantique, 35000 Rennes)*
 
     - Refonte du logiciel (Framework Flask, Frontend React)
-    - Développement de nouvelles fonctionnalités
-    - Déploiement et maintenance des [instances](https://askomics.genouest.org)
+    - Conception et implémentation de [nouvelles fonctionnalités](https://github.com/askomics/flaskomics/issues?q=is%3Aissue+label%3A%22New+Feature%22)
+    - Déploiement et maintenance des [instances](https://askomics.org/use/)
+    - Valorisation (BCC 2020, Jobim 2020)
 
 2016 - 2018
 :   **Ingénieur d'étude** - Développement d'[AskOmics](http://github.com/askomics/askomics), outils web d'integration de données biologiques
@@ -36,7 +73,7 @@ Expérience
     - Travail collaboratif avec Git et intégration continue
 
 
-2015 (3 mois)
+2015 (4 mois)
 :   **Stage** - Développement d'un portail web pour une plate-forme d’ingénierie des protéines
     *(PEACCEL, 44000 Nantes)*
 
@@ -66,9 +103,10 @@ Musique
 :   Bassiste du groupe [Tacos Dream](https://tacosdream.fr)
 
 Sports
-:   Course à pied (1h55 au semi-marathon) et cyclisme sur route
+:   Cyclisme sur route et course à pied
 
 
 ----
 
 > [pdf](https://me.xgaia.fr/resume.pdf) • [html](https://me.xgaia.fr)
+

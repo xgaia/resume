@@ -10,38 +10,67 @@
 /* Whole document */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 800px;
+    width: 850px;
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
 }
 
-/*
-.title {
-    display: none;
-}
-*/
 
-/* Title of the resume */
-h1 {
+/*Title*/
+#blog-title {
     font-size: 55px;
     color: #A10000;
     text-align:center;
     margin-bottom:15px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    white-space: nowrap;
+    font-weight: bold;
 }
 
-/* Titles of categories */
-h2 {
-    color: #A10000;
+hr {
+	color: #A10000;
+	border: 1px solid;
 }
-/* There is a bar just before each category */
-h2:before {
+
+h3 {
+	color: #A10000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+h3:before {
     content: "";
     display: inline-block;
     margin-right:1%;
     width: 16%;
     height: 10px;
     background-color: #A10000;
+}
+
+.navbar {
+	display: none;
+}
+
+.blog-header {
+	border-bottom: none;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 2px;
+}
+
+.dot.full {
+  border: 1px solid;
+  background-color: black;
+}
+
+.dot.empty {
+	border: 1px solid;
 }
 
 /* Definitions */
@@ -51,6 +80,7 @@ dt {
     width: 17%;
     font-weight: bold;
 }
+
 dd {
     margin-left: 17%;
 }
@@ -85,3 +115,8 @@ a {
 hr {
     color: #A10000;
 }
+
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
