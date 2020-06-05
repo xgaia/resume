@@ -65,12 +65,13 @@ uninstall:
 build: build-html build-pdf
 
 build-html: check-venv
-	@echo -n 'Building HTML file...                                         '
 	. $(ACTIVATE)
+	@echo -n 'Building HTML file...                                         '
 	$(NIKOLA) build -q
 	@echo 'Done'
 
 build-pdf:
+	. $(ACTIVATE)
 	@echo -n 'Building PDF file...                                          '
 	weasyprint -q ${HTML_FILE} ${PDF_FILE}
 	@echo 'Done'
