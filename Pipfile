@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 Nikola = {extras = ["extras"], version = "*"}
-weasyprint = "*"
+WeasyPrint = "*"
 
 [dev-packages]
 aiohttp = "*"
