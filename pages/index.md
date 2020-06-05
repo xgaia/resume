@@ -34,21 +34,21 @@ Database
 Semantic Web
 :    **RDF**, **SPARQL**
 
-Proramming
+Programming
 :    **Python**, Bash, C/C++, Scala
 
 OS
 :    **Linux** (Debian, Fedora)
 
 DevOps
-:    Deploiement continu (docker, docker-compose), intégration continue (pytest, [Travis-ci](https://travis-ci.org)), Monitoring ([Sentry](https://sentry.io))
+:    Déploiement continu (docker, docker-compose), intégration continue (pytest, [Travis-ci](https://travis-ci.org)), Monitoring ([Sentry](https://sentry.io))
 
 
 Expérience
 --------------------
 
 2018 - 2020
-:   **Ingénieur R&D** - Développement d'[AskOmics](http://github.com/askomics/flaskomics), outils web d'integration de données biologiques
+:   **Ingénieur R&D** - Développement d'[AskOmics](http://github.com/askomics/flaskomics), outils web d’intégration de données biologiques
     *(Inria Rennes Bretagne Atlantique, 35000 Rennes)*
 
     - Refonte du logiciel (Framework Flask, Frontend React)
@@ -57,7 +57,7 @@ Expérience
     - Valorisation (BCC 2020, Jobim 2020)
 
 2016 - 2018
-:   **Ingénieur d'étude** - Développement d'[AskOmics](http://github.com/askomics/askomics), outils web d'integration de données biologiques
+:   **Ingénieur d'étude** - Développement d'[AskOmics](http://github.com/askomics/askomics), outils web d’intégration de données biologiques
     *(INRA, 35000 Rennes)*
 
     - Développement de nouvelles fonctionnalités et correction de bugs
@@ -108,5 +108,5 @@ Sports
 
 ----
 
-> [pdf](https://me.xgaia.fr/resume.pdf) • [html](https://me.xgaia.fr)
+> [pdf](https://me.xgaia.fr/xavier_garnier_cv.pdf) • [html](https://me.xgaia.fr)
 

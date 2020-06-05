@@ -15,7 +15,7 @@ VENVDIR=$(BASEDIR)/venv
 ACTIVATE=$(VENVDIR)/bin/activate
 
 HTML_FILE=output/index.html
-PDF_FILE=output/resume.pdf
+PDF_FILE=output/xavier_garnier_cv.pdf
 
 MODE?=dev
 ifeq ($(MODE), dev)
