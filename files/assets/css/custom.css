@@ -10,16 +10,19 @@
 /* Whole document */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 850px;
+    max-width: 850px;
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
 }
 
+.bootblog4-brand {
+    width: 100% !important;
+    text-align: center;
+}
 
 /*Title*/
 #blog-title {
-    font-size: 55px;
     color: #A10000;
     text-align:center;
     margin-bottom:15px;
@@ -33,23 +36,12 @@ hr {
 	border: 1px solid;
 }
 
-h3 {
-	color: #A10000;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: bold;
-}
-
-h3:before {
-    content: "";
-    display: inline-block;
-    margin-right:1%;
-    width: 16%;
-    height: 10px;
-    background-color: #A10000;
-}
-
 .navbar {
 	display: none;
+}
+
+.navbar-toggler {
+    display: none;
 }
 
 #footer {
@@ -77,7 +69,6 @@ h3:before {
 	border: 1px solid;
 }
 
-
 /*GitHub corner*/
 .github-corner {
     position: fixed;
@@ -86,6 +77,10 @@ h3:before {
 }
 .github-corner:hover .octo-arm {
     animation: octocat-wave 560ms ease-in-out
+}
+
+.github-account {
+    text-align: center;
 }
 
 @keyframes octocat-wave {
@@ -101,37 +96,6 @@ h3:before {
     80% {
         transform: rotate(10deg)
     }
-}
-
-@media (max-width:500px) {
-    .github-corner:hover .octo-arm {
-        animation: none
-    }
-    .github-corner .octo-arm {
-        animation: octocat-wave 560ms ease-in-out
-    }
-}
-
-
-/* Definitions */
-dt {
-    float: left;
-    clear: left;
-    width: 17%;
-    font-weight: bold;
-}
-
-dd {
-    margin-left: 17%;
-}
-p {
-    margin-top:0px;
-    margin-bottom:0px;
-}
-
-dd > ul {
-    margin-top:2px;
-    margin-bottom:5px;
 }
 
 /* Blockquotes */
@@ -160,3 +124,149 @@ code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 span.underline{text-decoration: underline;}
 div.column{display: inline-block; vertical-align: top; width: 50%;}
+
+/* Computers */
+@media screen and (min-width: 768px) {
+    #blog-title {
+        font-size: 55px;
+        text-align: center;
+    }
+    h3 {
+        color: #A10000;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: bold;
+    }
+
+    h3:before {
+        content: "";
+        display: inline-block;
+        margin-right:1%;
+        width: 16%;
+        height: 8px;
+        background-color: #A10000;
+    }
+    dt {
+        float: left;
+        clear: left;
+        width: 17%;
+        font-weight: bold;
+    }
+    dd {
+        margin-left: 17%;
+    }
+    p {
+        margin-top:0px;
+        margin-bottom:0px;
+    }
+
+    dd > ul {
+        margin-top:2px;
+        margin-bottom:5px;
+    }
+}
+
+/* Phones */
+@media screen and (max-width: 767px) {
+    #blog-title {
+        font-size: 30px;
+    }
+    h3 {
+        color: #A10000;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: bold;
+        text-align: center;
+        font-size: 130%;
+    }
+    h3:before,
+    h3:after {
+        background-color: #A10000;
+        content: "";
+        display: inline-block;
+        height: 1.5px;
+        position: relative;
+        vertical-align: middle;
+        width: 7px;
+    }
+
+    h3:before {
+        right: 0.5em;
+        margin-left: -50%;
+    }
+
+    h3:after {
+        left: 0.5em;
+        margin-right: -50%;
+    }
+    dt {
+        font-weight: bold;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    dt:before,
+    dt:after {
+        background-color: #212529;
+        content: "";
+        display: inline-block;
+        height: 1.5px;
+        position: relative;
+        vertical-align: middle;
+        width: 7px;
+    }
+
+    dt:before {
+        right: 0.5em;
+        margin-left: -50%;
+    }
+
+    dt:after {
+        left: 0.5em;
+        margin-right: -50%;
+    }
+    .github-corner:hover .octo-arm {
+        animation: none
+    }
+    .github-corner .octo-arm {
+        animation: octocat-wave 560ms ease-in-out
+    }
+}
+
+/* PDF */
+@media print {
+    #blog-title {
+        font-size: 55px;
+        text-align: center;
+    }
+    h3 {
+        color: #A10000;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: bold;
+    }
+
+    h3:before {
+        content: "";
+        display: inline-block;
+        margin-right:1%;
+        width: 16%;
+        height: 8px;
+        background-color: #A10000;
+    }
+    dt {
+        float: left;
+        clear: left;
+        width: 17%;
+        font-weight: bold;
+    }
+    dd {
+        margin-left: 17%;
+    }
+    p {
+        margin-top:0px;
+        margin-bottom:0px;
+    }
+
+    dd > ul {
+        margin-top:2px;
+        margin-bottom:5px;
+    }
+}
