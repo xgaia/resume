@@ -72,20 +72,18 @@ Expérience
 2018 - 2020
 :   **Ingénieur R&D** *Inria Rennes Bretagne Atlantique, 35000 Rennes*
 
-    Développement d'[AskOmics](http://github.com/askomics/askomics), outils web d’intégration de données biologiques
+    Refonte et développement d'[AskOmics](http://github.com/askomics/askomics), outils web d’intégration de données biologiques
 
-
-    - Refonte du logiciel (Framework Flask, Frontend React)
-    - Conception et implémentation de [nouvelles fonctionnalités](https://github.com/askomics/flaskomics/issues?q=is%3Aissue+label%3A%22New+Feature%22)
+    - Définition du cahier des charges
+    - Conception et implémentation des [fonctionnalités](https://github.com/askomics/flaskomics/issues?q=is%3Aissue+label%3A%22New+Feature%22)
     - Déploiement et maintenance des [instances](https://askomics.org/use/)
-    - Valorisation (BCC 2020, Jobim 2020)
+    - Présentations et formations lors de conférences internationales
 
 2016 - 2018
 :   **Ingénieur d'étude** *(INRA, 35000 Rennes)*
 
     Développement d'[AskOmics](http://github.com/askomics/askomics), outils web d’intégration de données biologiques
     
-
     - Développement de nouvelles fonctionnalités et correction de bugs
     - Optimisation des requêtes SPARQL
     - Interopérabilité avec [Galaxy](https://galaxyproject.org), plate-forme d'analyse en bio-informatique
@@ -96,9 +94,8 @@ Expérience
 
     Mise à jour et développement d'un outil d'intégration de données biologiques
 
-
-    - Développement de nouvelles fonctionnalités (Python/Javascript/SPARQL)
-    - Travail collaboratif avec Git et intégration continue
+    - Développement de nouvelles fonctionnalités
+    - Travail collaboratif
 
 
 2015 (4 mois)
