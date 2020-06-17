@@ -72,7 +72,7 @@ Expérience
 2018 - 2020
 :   **Ingénieur R&D** *Inria Rennes Bretagne Atlantique, 35000 Rennes*
 
-    Refonte et développement d'[AskOmics](http://github.com/askomics/askomics), outils web d’intégration de données biologiques
+    Refonte et développement d'[AskOmics](http://github.com/askomics/flaskomics), outils web d’intégration de données biologiques
 
     - Définition du cahier des charges
     - Conception et implémentation des [fonctionnalités](https://github.com/askomics/flaskomics/issues?q=is%3Aissue+label%3A%22New+Feature%22)
