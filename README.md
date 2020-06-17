@@ -16,7 +16,7 @@ sudo dnf install -y git make python3 python3-virtualenv
 ### Download and install website
 
 ```bash
-git clone 
+git clone https://github.com/xgaia/resume.git
 cd resume
 make install
 ```
@@ -37,3 +37,4 @@ This command generate HTML and PDF files in `output` directory
 ```bash
 make serve
 ```
+Website will be available at [localhost:8000](http://localhost:8000)
