@@ -1,6 +1,6 @@
 cache
 output
-.doit.db
+.doit.db*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
