@@ -74,10 +74,10 @@ Expérience
 
     Refonte et développement d'[AskOmics](http://github.com/askomics/flaskomics), outils web d’intégration de données biologiques
 
-    - Définition du cahier des charges
-    - Conception et implémentation des [fonctionnalités](https://github.com/askomics/flaskomics/issues?q=is%3Aissue+label%3A%22New+Feature%22)
+    - Définition, Conception et implémentation des [fonctionnalités](https://github.com/askomics/flaskomics/issues?q=is%3Aissue+label%3A%22New+Feature%22)
+    - Mis en place de [l’intégration continue](https://travis-ci.org/github/askomics/flaskomics) (Tests unitaires automatisés)
     - Déploiement et maintenance des [instances](https://askomics.org/use/)
-    - Présentations et formations lors de conférences internationales
+    - Présentations et formations lors de [conférences internationales](https://bcc2020.github.io/)
 
 2016 - 2018
 :   **Ingénieur d'étude** *(INRA, 35000 Rennes)*
@@ -85,8 +85,7 @@ Expérience
     Développement d'[AskOmics](http://github.com/askomics/askomics), outils web d’intégration de données biologiques
     
     - Développement de nouvelles fonctionnalités et correction de bugs
-    - Optimisation des requêtes SPARQL
-    - Interopérabilité avec [Galaxy](https://galaxyproject.org), plate-forme d'analyse en bio-informatique
+    - Intégration continue
 
 
 2016 (6 mois)
@@ -95,7 +94,7 @@ Expérience
     Mise à jour et développement d'un outil d'intégration de données biologiques
 
     - Développement de nouvelles fonctionnalités
-    - Travail collaboratif
+    - Travail collaboratif avec git
 
 
 2015 (4 mois)
@@ -131,6 +130,9 @@ Musique
 
 Sports
 :   Cyclisme sur route et course à pied
+
+Blablabla
+:    Hébergement d'une [plate-forme](https://xgaia.fr) de services décentralisés
 
 
 ----
