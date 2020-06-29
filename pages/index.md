@@ -131,7 +131,7 @@ Musique
 Sports
 :   Cyclisme sur route et course à pied
 
-Blablabla
+Hébergement
 :    Hébergement d'une [plate-forme](https://xgaia.fr) de services décentralisés
 
 
