@@ -12,7 +12,7 @@
 
 ---
 
->  Ingénieur Full Stack/DevOps - Bio-informatique
+>  Ingénieur Full Stack/DevOps
 
 >  <a href="https://github.com/xgaia" class="github-account" aria-label="GitHub account" target="_newtab">
     <svg x="0px" y="0px" width="25px" height="25px" viewBox="0 0 438.549 438.549" style="fill:#212529; color:#212529; position: relative; top: 0; border: 0; right: 0;">
@@ -48,10 +48,10 @@ Front-end
 :    **Javascript** (**[React](https://reactjs.org)**, [D3](https://d3js.org/)), HTML, CSS (Bootstrap)
 
 Back-end
-:    **Python** (**[Flask](https://flask.palletsprojects.com)**, [Celery](https://www.celeryproject.org), [Pyramid](https://trypyramid.com/)), PHP
+:    **Python** (**[Flask](https://flask.palletsprojects.com)**, [Django](https://www.djangoproject.com/), [Celery](https://www.celeryproject.org), [Pyramid](https://trypyramid.com/)), PHP
 
 Database
-:    SQL 
+:    SQL, PostgreSQL
 
 Semantic Web
 :    **RDF**, **SPARQL**
@@ -60,7 +60,7 @@ Programming
 :    **Python**, Bash, C/C++, Scala
 
 OS
-:    **Linux** (Debian, Fedora)
+:    **Linux** (Debian, Fedora, Manjaro)
 
 DevOps
 :    Déploiement continu (git, docker, docker-compose), intégration continue (pytest, [Travis-ci](https://travis-ci.org)), monitoring ([Sentry](https://sentry.io))
@@ -68,6 +68,16 @@ DevOps
 
 Expérience
 --------------------
+
+2020 - 
+:    **Ingénieur R&D** *[Nahibu](https://nahibu.com) - 6 rue Pierre Joseph collin, 35000 Rennes*
+
+    Responsable Développement, Recherche et Innovation
+
+    - Analyse des besoins, définition des cahiers des charges et suivi des projets
+    - Développement et déploiement des services ([e-commerce](https://nahibu.com), plateforme de résultats d'analyses et services internes)
+    - Travail en collaboration avec les autres équipes de l'entreprise : marketing, commercial et service client
+    - Recrutement et management de l'équipe de développement
 
 2018 - 2020
 :   **Ingénieur R&D** *Inria Rennes Bretagne Atlantique, 35000 Rennes*
@@ -86,25 +96,6 @@ Expérience
     
     - Développement de nouvelles fonctionnalités et correction de bugs
     - Intégration continue
-
-
-2016 (6 mois)
-:   **Stage** *(Inria Rennes Bretagne Atlantique, 35000 Rennes)*
-
-    Mise à jour et développement d'un outil d'intégration de données biologiques
-
-    - Développement de nouvelles fonctionnalités
-    - Travail collaboratif avec git
-
-
-2015 (4 mois)
-:   **Stage** *(PEACCEL, 44000 Nantes)*
-
-    Développement d'un portail web pour une plate-forme d’ingénierie des protéines
-    
-
-    - Création d'une interface fonctionnelle pour des programmes de modélisation de protéines
-
 
 
 Formation
@@ -129,10 +120,11 @@ Musique
 :   Bassiste du groupe [Tacos Dream](https://tacosdream.fr)
 
 Sports
-:   Cyclisme sur route et course à pied
+:   Cyclisme sur route, course à pied et trekking
 
-Hébergement
-:    Hébergement d'une [plate-forme](https://xgaia.fr) de services décentralisés
+Associatif
+:    Fondateur et président de [Libreon](https://libreon.fr) : services en ligne et hébergement associatif à Rennes
+
 
 
 ----
